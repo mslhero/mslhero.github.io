@@ -1,2 +1,2 @@
-warting
+waiting
 =================
